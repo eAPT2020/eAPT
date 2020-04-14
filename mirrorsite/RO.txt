@@ -1,0 +1,6 @@
+ftp.ro.debian.org/debian/
+ftp.upcnet.ro/debian/
+mirrors.nav.ro/debian/
+mirrors.nxthost.com/debian/
+mirrors.pidginhost.com/debian/
+mirrors.xservers.ro/debian/

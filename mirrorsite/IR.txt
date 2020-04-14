@@ -1,0 +1,2 @@
+debian.asis.ai/debian/
+mirror.aminidc.com/debian/

@@ -1,0 +1,3 @@
+debianmirror.nkn.in/debian/
+debmirror.hbcse.tifr.res.in/debian/
+mirror.cse.iitk.ac.in/debian/

@@ -1,0 +1,4 @@
+ftp.by.debian.org/debian/
+ftp.by.debian.org/debian/
+ftp.byfly.by/debian/
+mirror.datacenter.by/debian/

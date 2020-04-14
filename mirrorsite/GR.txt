@@ -1,0 +1,3 @@
+ftp.gr.debian.org/debian/
+debian.noc.ntua.gr/debian/
+debian.otenet.gr/debian/

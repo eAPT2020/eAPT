@@ -1,0 +1,3 @@
+ftp.debianclub.org/debian/
+mirror.applebred.net/debian/
+mirror.kku.ac.th/debian/

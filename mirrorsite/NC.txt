@@ -1,0 +1,2 @@
+ftp.nc.debian.org/debian/
+debian.nautile.nc/debian/

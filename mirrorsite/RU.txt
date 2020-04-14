@@ -1,0 +1,7 @@
+ftp.ru.debian.org/debian/
+ftp.psn.ru/debian/
+mirror.corbina.net/debian/
+mirror.docker.ru/debian/
+mirror.mephi.ru/debian/
+mirrors.powernet.com.ru/debian/
+mirror.truenetwork.ru/debian/

@@ -1,0 +1,5 @@
+ftp.pt.debian.org/debian/
+debian.uevora.pt/debian/
+ftp.eq.uc.pt/software/Linux/debian/
+ftp.rnl.tecnico.ulisboa.pt/pub/debian/
+mirrors.up.pt/debian/

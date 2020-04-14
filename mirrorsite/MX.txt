@@ -1,0 +1,2 @@
+ftp.mx.debian.org/debian/
+mmc.geofisica.unam.mx/debian/

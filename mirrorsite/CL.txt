@@ -1,0 +1,5 @@
+debian.netlinux.cl/debian/
+debian.redlibre.cl/debian/
+debian.utalca.cl/debian/
+mirror.insacom.cl/debian/
+mirror.ufro.cl/debian/

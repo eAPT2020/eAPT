@@ -1,0 +1,10 @@
+ftp.cz.debian.org/debian/
+debian.ignum.cz/debian/
+debian.mirror.web4u.cz/
+debian.superhosting.cz/debian/
+ftp.cvut.cz/debian/
+ftp.debian.cz/debian/
+ftp.sh.cvut.cz/debian/
+ftp.zcu.cz/debian/
+merlin.fit.vutbr.cz/debian/
+mirror.dkm.cz/debian/

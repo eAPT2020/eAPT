@@ -1,0 +1,5 @@
+ftp.lt.debian.org/debian/
+debian.balt.net/debian/
+debian.mirror.vu.lt/debian/
+mirror.litnet.lt/debian/
+mirror.vpsnet.com/debian/

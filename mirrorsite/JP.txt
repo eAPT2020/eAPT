@@ -1,0 +1,10 @@
+ftp.jp.debian.org/debian/
+debian-mirror.sakura.ne.jp/debian/
+dennou-k.gfd-dennou.org/debian/
+dennou-q.gfd-dennou.org/debian/
+ftp.jaist.ac.jp/debian/
+ftp.kddilabs.jp/pub/debian/
+ftp.nara.wide.ad.jp/debian/
+ftp.riken.jp/Linux/debian/debian/
+ftp.yz.yamagata-u.ac.jp/debian/
+hanzubon.jp/debian/

@@ -1,0 +1,2 @@
+debian.co.il/debian/
+mirror.isoc.org.il/pub/debian/

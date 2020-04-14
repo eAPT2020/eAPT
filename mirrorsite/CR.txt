@@ -1,0 +1,2 @@
+debianmirror.una.ac.cr/debian
+mirrors.ucr.ac.cr/debian

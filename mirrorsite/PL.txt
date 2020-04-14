@@ -1,0 +1,6 @@
+ftp.pl.debian.org/debian/
+debian.inhost.pro/debian/
+ftp.agh.edu.pl/debian/
+ftp.icm.edu.pl/pub/Linux/debian/
+ftp.man.poznan.pl/linux/debian/
+ftp.task.gda.pl/debian/

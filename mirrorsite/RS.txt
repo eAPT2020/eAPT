@@ -1,0 +1,2 @@
+debian.petarmaric.com/debian/
+mirror.pmf.kg.ac.rs/debian/

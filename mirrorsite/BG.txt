@@ -1,0 +1,8 @@
+ftp.bg.debian.org/debian/
+debian.ipacct.com/debian/
+debian.ludost.net/debian/
+debian.mnet.bg/debian/
+debian.mobiltel.bg/debian/
+debian.telecoms.bg/debian/
+ftp.uni-sofia.bg/debian/
+mirrors.netix.net/debian/

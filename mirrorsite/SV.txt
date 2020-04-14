@@ -1,0 +1,3 @@
+ftp.sv.debian.org/debian/
+debian.salud.gob.sv/debian/
+debian.ues.edu.sv/debian/

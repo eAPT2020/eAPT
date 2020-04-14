@@ -1,0 +1,3 @@
+kartolo.sby.datautama.net.id/debian/
+kebo.pens.ac.id/debian/
+mirror.poliwangi.ac.id/debian/

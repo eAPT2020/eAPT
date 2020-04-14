@@ -1,0 +1,7 @@
+ftp.it.debian.org/debian/
+debian.connesi.it/debian/
+debian.dynamica.it/debian/
+debian.mirror.garr.it/debian/
+ftp.linux.it/debian/
+giano.com.dist.unige.it/debian/
+mirror.units.it/debian/

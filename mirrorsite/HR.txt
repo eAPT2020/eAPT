@@ -1,0 +1,3 @@
+ftp.hr.debian.org/debian/
+debian.carnet.hr/debian/
+debian.iskon.hr/debian/

@@ -1,0 +1,2 @@
+debian.unnoba.edu.ar/debian/
+mirror.sitsa.com.ar/debian/

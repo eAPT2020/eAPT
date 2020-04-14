@@ -1,0 +1,2 @@
+mirror.hoster.kz/debian/
+mirror.ps.kz/debian/

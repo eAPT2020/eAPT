@@ -1,0 +1,5 @@
+ftp.hu.debian.org/debian/
+ftp.bme.hu/debian/
+ftp.fsn.hu/debian/
+ftp.kfki.hu/linux/debian/
+repo.jztkft.hu/debian/

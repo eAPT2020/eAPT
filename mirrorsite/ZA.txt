@@ -1,0 +1,3 @@
+debian.mirror.ac.za/debian/
+debian.saix.net/
+ftp.is.co.za/debian/

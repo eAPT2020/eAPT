@@ -1,0 +1,6 @@
+ftp.ch.debian.org/debian/
+debian.ethz.ch/debian/
+mirror.init7.net/debian/
+mirror.iway.ch/debian/
+mirror.sinavps.ch/debian/
+pkg.adfinis-sygroup.ch/debian/

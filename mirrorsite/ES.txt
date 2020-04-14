@@ -1,0 +1,12 @@
+ftp.es.debian.org/debian/
+debian.grn.cat/debian/
+debian.redimadrid.es/debian/
+debian.redparra.com/debian/
+debian.uvigo.es/debian/
+ftp.caliu.cat/debian/
+ftp.cica.es/debian/
+ftp.gul.uc3m.es/debian/
+ftp.udc.es/debian/
+mirror.librelabucm.org/debian/
+softlibre.unizar.es/debian/
+ulises.hostalia.com/debian/

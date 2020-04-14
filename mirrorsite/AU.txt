@@ -1,0 +1,13 @@
+ftp.au.debian.org/debian/
+ftp.au.debian.org/debian/
+debian.mirror.digitalpacific.com.au/debian/
+debian.mirror.serversaustralia.com.au/debian/
+mirror.aarnet.edu.au/debian/
+mirror.amaze.com.au/debian/
+mirror.datamossa.io/debian/
+mirror.intergrid.com.au/debian/
+mirror.launtel.net.au/debian/
+mirror.linux.org.au/debian/
+mirror.overthewire.com.au/debian/
+mirror.realcompute.io/debian/
+mirror.waia.asn.au/debian/

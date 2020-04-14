@@ -1,0 +1,6 @@
+ftp.tw.debian.org/debian/
+debian.csie.ntu.edu.tw/debian/
+debian.cs.nctu.edu.tw/debian/
+ftp.ntou.edu.tw/debian/
+ftp.tku.edu.tw/debian/
+opensource.nchc.org.tw/debian/

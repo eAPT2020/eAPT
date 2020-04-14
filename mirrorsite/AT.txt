@@ -1,0 +1,8 @@
+ftp.at.debian.org/debian/
+ftp.at.debian.org/debian/
+debian.anexia.at/debian/
+debian.inode.at/debian/
+debian.lagis.at/debian/
+debian.mur.at/debian/
+debian.sil.at/debian/
+ftp.tu-graz.ac.at/mirror/debian/

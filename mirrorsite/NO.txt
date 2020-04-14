@@ -1,0 +1,2 @@
+ftp.no.debian.org/debian/
+ftp.uio.no/debian/

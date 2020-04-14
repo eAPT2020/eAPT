@@ -1,0 +1,2 @@
+debian.koyanet.lv/debian/
+debian.linux.edu.lv/debian/

@@ -1,0 +1,2 @@
+ftp.ee.debian.org/debian/
+ftp.eenet.ee/debian/

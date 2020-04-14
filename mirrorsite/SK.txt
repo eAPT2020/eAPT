@@ -1,0 +1,3 @@
+ftp.sk.debian.org/debian/
+ftp.antik.sk/debian/
+ftp.debian.sk/debian/

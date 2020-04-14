@@ -1,0 +1,2 @@
+ftp.si.debian.org/debian/
+ftp.arnes.si/debian/

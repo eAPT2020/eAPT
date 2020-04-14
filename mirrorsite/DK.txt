@@ -1,0 +1,6 @@
+ftp.dk.debian.org/debian/
+mirror.asergo.com/debian/
+mirror.netcrunch.dk/debian/
+mirror.one.com/debian/
+mirrors.dotsrc.org/debian/
+mirrors.rackhosting.com/debian/

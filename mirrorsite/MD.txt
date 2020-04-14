@@ -1,0 +1,3 @@
+ftp.md.debian.org/debian/
+mirror.as43289.net/debian/
+mirrors.mivocloud.com/debian/

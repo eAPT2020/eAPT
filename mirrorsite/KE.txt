@@ -1,0 +1,2 @@
+debian.mirror.ac.ke/debian/
+debian.mirror.liquidtelecom.com/debian/

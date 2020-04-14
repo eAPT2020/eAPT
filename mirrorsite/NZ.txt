@@ -1,0 +1,3 @@
+ftp.nz.debian.org/debian/
+ftp.citylink.co.nz/debian/
+mirror.fsmg.org.nz/debian/

@@ -1,0 +1,3 @@
+debian.org.ua/debian/
+debian.volia.net/debian/
+mirror.mirohost.net/debian/

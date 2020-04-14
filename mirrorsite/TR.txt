@@ -1,0 +1,4 @@
+ftp.tr.debian.org/debian/
+debian.gnu.gen.tr/debian/
+ftp.linux.org.tr/debian/
+ftp.metu.edu.tr/debian/

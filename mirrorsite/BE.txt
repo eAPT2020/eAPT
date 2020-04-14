@@ -1,0 +1,4 @@
+ftp.be.debian.org/debian/
+ftp.be.debian.org/debian/
+ftp.belnet.be/debian/
+mirror.as35701.net/debian/

@@ -1,0 +1,8 @@
+ftp.fi.debian.org/debian/
+ftp.se.debian.org/debian/
+debian.lth.se/debian/
+debian.mirror.su.se/debian/
+ftp.acc.umu.se/debian/
+mirror.linux.pizza/debian/
+mirrors.glesys.net/debian/
+mirror.zetup.net/debian/

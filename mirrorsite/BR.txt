@@ -1,0 +1,7 @@
+ftp.br.debian.org/debian/
+alcateia.ufscar.br/debian/
+debian.c3sl.ufpr.br/debian/
+debian.pop-sc.rnp.br/debian/
+mirror.nbtelecom.com.br/debian/
+mirror.unesp.br/debian/
+repositorio.nti.ufal.br/debian/

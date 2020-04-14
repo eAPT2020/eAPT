@@ -1,0 +1,5 @@
+ftp.kr.debian.org/debian/
+ftp.harukasan.org/debian/
+ftp.kaist.ac.kr/debian/
+ftp.lanet.kr/debian/
+mirror.kakao.com/debian/

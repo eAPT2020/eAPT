@@ -1,0 +1,3 @@
+ftp.am.debian.org/debian/
+ftp.am.debian.org/debian/
+mirrors.asnet.am/debian/
