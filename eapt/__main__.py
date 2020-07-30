@@ -1,3 +1,4 @@
+from eapt.core import main
+
 if __name__ == '__main__':
-    # do main here
-    pass
+    main()
