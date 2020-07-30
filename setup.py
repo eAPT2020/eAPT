@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name                = 'eapt',
-    version             = '0.1',
+    version             = '0.1.1',
     description         = 'Enhanced Advanced Packaging Tools',
     author              = 'Taegeun Moon',
     author_email        = 'xorms987@gmail.com',

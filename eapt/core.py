@@ -18,6 +18,7 @@ class eAPT:
 
         if not path.exists(self.__baseDir):
             mkdir(self.__baseDir)
+            self.init()
         elif path.isfile(self.__candidateFile):
             with open(self.__candidateFile, 'r') as f:
                 # strip to remove newline
@@ -47,6 +48,7 @@ class eAPT:
         For now, eAPT saves all local mirror sites as candidate.
         Top-K will be selected each time they are loaded.
         '''
+        print('< Initializing eAPT >')
         print(f"Finding candidate mirror sites...")
         self.candidates = resolver.getCandidates()
 

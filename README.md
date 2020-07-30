@@ -3,6 +3,13 @@
 
 eAPT is a wrapper of APT equipped with mirror site resolver using geographical information.
 
+# Requirements
+eAPT requires python >= 3.7 and some system libraries.
+
+```bash
+$ sudo apt-get install libcurl4-openssl-dev libssl-dev
+```
+
 # Usage
 ```shell
 $ pip3 install eapt
