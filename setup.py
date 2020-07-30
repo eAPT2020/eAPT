@@ -6,8 +6,8 @@ setup(
     description         = 'Enhanced Advanced Packaging Tools',
     author              = 'Taegeun Moon',
     author_email        = 'xorms987@gmail.com',
-    url                 = 'https://github.com/2gilhee/eAPT',
-    download_url        = 'https://github.com/2gilhee/eAPT',
+    url                 = 'https://github.com/eAPT2020/eAPT',
+    download_url        = 'https://github.com/eAPT2020/eAPT',
     install_requires    =  ["pygeoip>=0.*", "geoip2>=3.0.0", "pycurl>=7.*.*.*", "haversine>=2.*.*"],
     packages            = find_packages(exclude = []),
     keywords            = ['apt'],
@@ -20,7 +20,7 @@ setup(
     ],
     entry_points={
     'console_scripts': [ 
-        'eapt = eapt' 
+        'eapt = eapt.core:main' 
     ] 
 },
 )
