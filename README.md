@@ -1,11 +1,14 @@
 # eAPT
-eAPT
+> **eAPT**: **e**nhanced **A**dvanced **P**ackaging **T**ool
+
+eAPT is a wrapper of APT equipped with mirror site resolver using geographical information.
 
 # Usage
 ```shell
-$ git clone https://github.com/2gilhee/eapt
-$ cd eapt
-$ python3 eapt
+$ pip3 install eapt
+
+# you can use eapt just like  APT
+$ eapt install vim
 ```
 
 Otherwise, import `eapt` directly.
