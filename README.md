@@ -27,3 +27,6 @@ Python 3.8.1 (v3.8.1:1b293b6006, Dec 18 2019, 14:08:53)
 Type "help", "copyright", "credits" or "license" for more information.
 >>> import eapt
 ```
+
+# Project members
+Gilhee Lee, Taegeun Moon, Min Jang, and Hyoungshick Kim
